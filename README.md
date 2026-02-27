@@ -1,5 +1,3 @@
-# Hey, I'm process631
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=header&text=process631&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </div>
@@ -35,22 +33,10 @@ Chrome/Edge extension for [OpenGuessr](https://openguessr.com) — reveal locati
 ---
 
 *More projects coming soon.*
-
----
-
-## Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=process631&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=process631&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1" width="48%" />
-</p>
-
 ---
 
 ## What I'm into
 
-- 🧩 Browser extensions
-- 🎮 GeoGuessr / OpenGuessr
 - ⚡ Quick hacks & helpers
 - 📦 JavaScript
 
