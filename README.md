@@ -30,15 +30,20 @@ Chrome/Edge extension for [OpenGuessr](https://openguessr.com) — reveal locati
 
 [**View on GitHub →**](https://github.com/process631/openguessrhelper)
 
----
+### 🔍 Web Recon Tools
+Bash scripts for **passive** and **active** web recon on **authorized** targets — HTTP headers/body capture, security-header snapshots, optional [httpx](https://github.com/projectdiscovery/httpx) tech/fingerprint probes, and conservative `nmap` scans focused on common web ports.
 
-*More projects coming soon.*
+**Tech:** Bash · curl · nmap · optional httpx
+
+[**View on GitHub →**](https://github.com/process631/web-recon-tools) · [**Latest release**](https://github.com/process631/web-recon-tools/releases)
+
 ---
 
 ## What I'm into
 
 - ⚡ Quick hacks & helpers
 - 📦 JavaScript
+- 🔐 Security tooling & recon (authorized assessments only)
 
 ---
 
