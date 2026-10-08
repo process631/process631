@@ -1,54 +1,70 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=header&text=process631&fontSize=50&fontColor=ffffff&animation=fadeIn" />
-</div>
 
-<br>
+<p><img src="assets/banner.svg" width="100%" alt="process631: web apps, developer tooling, security recon" /></p>
 
-<p align="center">
-  <a href="https://github.com/process631?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://github.com/process631">
-    <img src="https://img.shields.io/static/v1?label=&message=Profile&color=6366f1&style=for-the-badge" alt="Profile" />
-  </a>
+<p>
+  <a href="https://process631.github.io/forkcast/"><img src="https://img.shields.io/badge/Live-Forkcast-6366f1?style=flat-square&logo=githubpages&logoColor=white" alt="Forkcast live site" /></a>
+  <a href="https://github.com/process631/web-recon-tools/releases"><img src="https://img.shields.io/badge/Release-Web_Recon_Tools_v1.0.0-312e81?style=flat-square&logo=gnubash&logoColor=white" alt="Web Recon Tools release" /></a>
+  <a href="https://github.com/process631?tab=repositories"><img src="https://img.shields.io/badge/All_repositories-0f172a?style=flat-square&logo=github&logoColor=white" alt="All repositories" /></a>
 </p>
 
----
+</div>
 
-## About me
+## About
 
-I build browser extensions and tools that make gaming and web apps more fun to use. Mostly JavaScript, mostly Chrome extensions.
+I build practical software for the web: clean, responsive front ends, browser tooling, and small security utilities. I care about apps that are fast, tested, and easy to use, and I like turning quick hacks into tools other people can rely on.
 
----
+- **Building:** Forkcast, a recipe picker with a step-by-step cook mode (React + TypeScript)
+- **Exploring:** web security and reconnaissance, always on authorized targets
+- **Interested in:** browser extensions, automation, and developer tooling
+
+## Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,vite,vitest,nodejs,bash,linux,githubactions&perline=9" alt="TypeScript, JavaScript, React, Vite, Vitest, Node.js, Bash, Linux, GitHub Actions" />
+</p>
 
 ## Featured projects
 
-### 🌍 OpenGuessr toolkit
-Main monorepo for [OpenGuessr](https://openguessr.com) practice tooling: **Chrome/Edge extension** (reveal location, coordinates, markers), optional **Playwright controller** with a local GUI for scripted runs, and a **userscript lab** for experiments.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Tech:** JavaScript · Chrome Extension API · Playwright · Leaflet hooks · JSON reports
+### 🍴 [Forkcast](https://github.com/process631/forkcast)
 
-[**View on GitHub →**](https://github.com/process631/openguessr-toolkit)
+Helps you decide what to cook, then walks you through it step by step. A few quick questions about meal, mood, time, and diet rank 790+ real recipes, each with the reasons it matches. Includes ingredient checklists, one-tap timers, and a full-screen cook mode that keeps your screen on.
 
-*Older standalone mirror:* [`openguessrhelper`](https://github.com/process631/openguessrhelper) (use the toolkit repo for the full tree.)
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+<img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest" />
 
-### 🔍 Web Recon Tools
-Bash scripts for **passive** and **active** web recon on **authorized** targets — HTTP headers/body capture, security-header snapshots, optional [httpx](https://github.com/projectdiscovery/httpx) tech/fingerprint probes, and conservative `nmap` scans focused on common web ports.
+**[Live site →](https://process631.github.io/forkcast/)** &nbsp;·&nbsp; [Source](https://github.com/process631/forkcast)
 
-**Tech:** Bash · curl · nmap · optional httpx
+</td>
+<td width="50%" valign="top">
 
-[**View on GitHub →**](https://github.com/process631/web-recon-tools) · [**Latest release**](https://github.com/process631/web-recon-tools/releases)
+### 🔍 [Web Recon Tools](https://github.com/process631/web-recon-tools)
 
----
+Bash scripts for passive and active reconnaissance on authorized web targets. Captures HTTP headers and bodies, snapshots security headers, runs optional httpx fingerprinting, and performs conservative nmap scans of common web ports.
 
-## What I'm into
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+<img src="https://img.shields.io/badge/curl-073551?style=flat-square&logo=curl&logoColor=white" alt="curl" />
+<img src="https://img.shields.io/badge/nmap-0E83CD?style=flat-square" alt="nmap" />
+<img src="https://img.shields.io/badge/httpx-optional-555555?style=flat-square" alt="httpx (optional)" />
 
-- ⚡ Quick hacks & helpers
-- 📦 JavaScript
-- 🔐 Security tooling & recon (authorized assessments only)
+**[Latest release →](https://github.com/process631/web-recon-tools/releases)** &nbsp;·&nbsp; [Source](https://github.com/process631/web-recon-tools)
 
----
+</td>
+</tr>
+</table>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=80&section=footer&reversal=true" />
+
+<br />
+
+<sub><i>check your processes ;)</i></sub>
+
+<img src="assets/footer.svg" width="100%" alt="" />
+
 </div>
