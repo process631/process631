@@ -14,9 +14,6 @@
 
 I'm a developer building Android / React Native and Windows apps, along with practical web tools. I care about software that is fast, tested, and straightforward to use.
 
-<!-- CONTACT: replace the line below with your real LinkedIn or email, then delete this comment. -->
-**Contact / LinkedIn:** _add your LinkedIn or email here_
-
 ## Tech stack
 
 Languages and tools I actually use in my public work, plus the mobile stack I'm building with:
