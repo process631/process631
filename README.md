@@ -1,6 +1,6 @@
 <div align="center">
 
-<p><img src="assets/banner.svg" width="100%" alt="Suat (process631): Windows, web, and Android / React Native apps" /></p>
+<p><img src="assets/banner.svg" width="100%" alt="process631: Windows, web, and Android / React Native apps" /></p>
 
 <p>
   <a href="https://github.com/process631/DiskSweeper"><img src="https://img.shields.io/github/v/release/process631/DiskSweeper?style=flat-square&label=DiskSweeper&color=0f172a" alt="DiskSweeper latest release" /></a>
@@ -12,7 +12,7 @@
 
 ## About
 
-I'm **Suat**, a developer building Android / React Native and Windows apps, along with practical web tools. I care about software that is fast, tested, and straightforward to use.
+I'm a developer building Android / React Native and Windows apps, along with practical web tools. I care about software that is fast, tested, and straightforward to use.
 
 <!-- CONTACT: replace the line below with your real LinkedIn or email, then delete this comment. -->
 **Contact / LinkedIn:** _add your LinkedIn or email here_
